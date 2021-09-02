@@ -22,5 +22,5 @@ Files and steps related to Hackintosh-ing a H77MA-G43 using Opencore bootloader.
 * Tested OS Version: ```macOS Big Sur 11.5.2 (Build 20G95)```
 
 ***What works***
-* Everything works including GPU, Ethernet, USB, Audio except Sleep	
-	- Currently, set sleep to "Never" in macOS settings.
+* Everything works including GPU, Ethernet, USB, Audio 
+	
